@@ -1,0 +1,16 @@
+﻿rank,name,line,protocol,nodes,yearly_plan,yearly_price_cny,yearly_traffic,monthly_equivalent_cny,monthly_plan,monthly_price_cny,monthly_traffic,monthly_per_gb_cny,unlimited_plan,unlimited_price_cny,unlimited_traffic,coupon,score,review
+1,sogo云,IPLC / IEPL 专线,VLESS,60（全部在线）,小包-年付版,98,60G/月,8.17,基础版,25,150G/月,0.167,基础餐不限时版,120,120G,sogo10000,9.6,https://pianyijichang.net/review/sogo/
+2,飞猫云,IPLC 专线（另有直连节点）,VLESS,63（60 在线）,学生版,84,50G/月,7,星耀版,25,150G/月,0.167,不限时套餐,680,1000G,flycat888,9.3,https://pianyijichang.net/review/feimao/
+3,暮光,BGP 智能调度 + 专线级出口,Shadowsocks,60+（全部在线）,年付轻量版,109,70G/月,9.08,基础版,20,120G/月,0.167,不限时轻量包,219,150G,mm88,9.2,https://pianyijichang.net/review/muguang/
+4,微风,全 IPLC 专线,以官网为准,60+（全部在线）,清风,137,100G/月,11.42,乘风,27,200G/月,0.135,信风·不限时,200,270G,weifeng90,9,https://pianyijichang.net/review/weifeng/
+5,飞 V,IEPL / IPLC 专线 + BGP 调度,Shadowsocks,以官网为准,年付标准轻量版,99,65G/月,8.25,入门方案,25,150G/月,0.167,单次买断小流量包,189,130G,fly20,8.9,https://pianyijichang.net/review/feiv/
+6,二猫云,全 IEPL 专线,以官网为准,60（全部在线）,二猫年付小包,89,60G/月,7.42,白猫套餐,20,130G/月,0.154,不限时套餐,99,100G,ermao888,8.8,https://pianyijichang.net/review/ermao/
+7,Firefly,全 IPLC 专线,以官网为准,49（47 在线）,年付版,96,60G/月,8,Lite,25,150G/月,0.167,不限时,100,100G,firefly,8.7,https://pianyijichang.net/review/firefly/
+8,宇宙云,IEPL / IPLC 专线,以官网为准,60+（宣传 70+）,星云年付小包,96,60G/月,8,行星基础版,25,160G/月,0.156,行星不限时版,110,120G,YUZHOU553,8.6,https://pianyijichang.net/review/yuzhou/
+9,无忧,全 IPLC 专线,以官网为准,49（汇总时 36 在线）,MINI链接（年付）,79,40G/月,6.58,舒心链接,19,100G/月,0.19,100G 永久不限时,108,100G,wuyou,8.5,https://pianyijichang.net/review/wuyou/
+10,光速云,IPLC 专线（另有直连节点）,VLESS,69（67 在线）,轻量版,99,59G/月,8.25,极速版,23,138G/月,0.167,不限时套餐,680,1000G,AMM,8.4,https://pianyijichang.net/review/guangsu/
+11,星岛梦,IPLC / IEPL 专线（另有直连节点）,VLESS,69（63 在线）,贴心小包,96,60G/月,8,超量150G,25,150G/月,0.167,永久不限时100,100,100G,nmw888,8.3,https://pianyijichang.net/review/xingdaomeng/
+12,唯兔云,IPLC / IEPL 专线 + 备用直连,VLESS,71（67 在线）,年付限量款,79.9,45G/月,6.66,普通版,19.9,150G/月,0.133,永久不限时,100,100G,rabbit,8.3,https://pianyijichang.net/review/weitu/
+13,U1S1,BGP 三网优化 + IEPL 专线出口,Shadowsocks / VLESS,67（63 在线）,就是好用包,96,60G/月,8,普通人真够了包,20,120G/月,0.167,,,,U1S1,8.2,https://pianyijichang.net/review/u1s1/
+14,一翻云,全 IEPL 专线（另有直连节点）,以官网为准,72（全部在线）,年付小包,98,60G/月,8.17,轻享版,20,150G/月,0.133,轻享不限时包,100,100G,1FLYYUN,8.1,https://pianyijichang.net/review/yifan/
+15,灵动云,BGP 智能调度 + 专线出口,Shadowsocks,60（全部在线）,穿云,99,79G/月,8.25,拂风,20,100G/月,0.2,闲云（不限时）,199,150G,zq88,8,https://pianyijichang.net/review/lingdong/
